@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:paddingRight="10dp"
+    android:paddingLeft="10dp">
+
+    <TextView
+        android:layout_marginTop="20dp"
+        android:id="@+id/txtd"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        android:textSize="@dimen/large_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Vote to raise this problem as immediate"/>
+    <Button
+        android:id="@+id/buttonVote"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Vote"
+        android:layout_marginTop="15dp"
+        android:layout_below="@+id/txtd"
+        android:background="#176CEC"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#fff"
+        android:textStyle="bold"
+        android:layout_marginBottom="20dp"/>
+
+
+</RelativeLayout>

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SmartC</string>
+
+    <string name="quotedesc"> Where are you right now?</string>
+
+    <string name="welcome">Welcome user!</string>
+    <string name="report">Report complaint</string>
+    <string name="status">Status</string>
+    <string name="second">Problems</string>
+    <string name="web_client_id">162347858992-b48u0rm97jd9qvfuh70kmi1cv58qghq9.apps.googleusercontent.com</string>
+    <string name="client_id">162347858992-b48u0rm97jd9qvfuh70kmi1cv58qghq9.apps.googleusercontent.com</string>
+    <string name="spinner_title">select</string>
+    <string name="vote">Please follow the below steps properly:\n\n\n\t1:Click on complaint to vote.\n\t2:What happen when you vote?\n\t\tAfter voting the complaint with greatest vote will be marked as severe problem so it will be solved quickly as possible.\n\n\tNOTE: It is not mandatory to participate in voting.</string>
+
+
+</resources>
